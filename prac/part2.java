@@ -1,4 +1,4 @@
-package javafirst;
+package javafirst.prac;
 
 /**
  * part2
