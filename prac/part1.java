@@ -1,4 +1,4 @@
-package prac;
+package javafirst.prac;
 import java.io.Console;
 import java.util.Scanner;
 
