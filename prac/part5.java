@@ -4,6 +4,7 @@ import java.io.Console;
 
 public class part5 {
 public static void main(String[] args) {
+    //our first java project with if statement
     Console c = System.console();
     int age = Integer.parseInt(c.readLine());
     if (age<60) {
