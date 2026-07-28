@@ -6,3 +6,5 @@ public class part8 {
     }
 }
 //green fiaz
+
+//label
