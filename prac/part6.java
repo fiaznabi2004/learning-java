@@ -35,3 +35,16 @@ public class part6 {
 }
 
 // here switch statement is more optimized than if else statment
+/*
+but switch has a lot of limitations
+for example 
+1.we can use switch for int , short , enumeration , long , char ,byte
+2.no duplicate are allowed  like we cant use case 2 twice
+3. after JDK 7 we can use string in switch
+
+we cant use it for boolean 
+switch(i>4) ===> error
+
+*/
+
+//break helps to jump to conclusion after a specific condition
