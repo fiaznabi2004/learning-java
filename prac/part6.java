@@ -38,7 +38,7 @@ public class part6 {
 /*
 but switch has a lot of limitations
 for example 
-1.we can use switch for int , short , enumeration , long , char ,byte
+1.we can use switch for int , short , enumeration , long , char ,byte but cant use boolean values like condition switch(i<7)
 2.no duplicate are allowed  like we cant use case 2 twice
 3. after JDK 7 we can use string in switch
 

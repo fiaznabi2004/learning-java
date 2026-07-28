@@ -71,7 +71,7 @@ for(int i=0;i<8;i++)
     }
     System.out.println(i);
 }
-// here after 5 we cant get any more printing
+// here we are at 5 we cant get any more printing
 //break statement breaks the loop at 5 that is 1 2 3 4
 //continue satatement prints upto given condition but ignore 5 i.e 1,2,3,4,6,7
 
