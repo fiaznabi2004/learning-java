@@ -10,7 +10,7 @@ public static void main(String[] args) {
     //outer.inner z = y.new inner();//Outer.Inner -> "the Inner class that belongs to Outer"
     
     System.out.println(x.x);//this will give the inner x value  as the inner class has only one attribute x
-    //we cant access x and y of outer  from the inner in main 
+    //we cant access x and y of outer  from the inner object in main 
     x.fun();
 }    
 }
